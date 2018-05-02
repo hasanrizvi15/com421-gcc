@@ -197,27 +197,15 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
     background: #e8e8e8;
   }
   
-  .yardWasteItems{
-    margin-top:55px;
+  .yesno img {
+    width: 49%;
+    height: auto;
+   
   }
-  
-  .yardWasteItems li{
+
+  .no {
     display: inline-block;
-    width:150px;
-    height: 150px;
-    padding:15px;
-    border-radius:4px;
-    background-color: white;
-    margin-right:10px;
-    margin-top:20px;
-    text-align: center;
   }
-  .yardWasteItems p{
-    color: #757575;
-    text-align: center;
-    margin-top:10px;
-  }
-  
 
 
 
@@ -227,7 +215,7 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
 
 #why div{
     display: inline-block;
-    max-width: 50%;
+    max-width: 45%;
   }
 
 #why h2 {
@@ -241,17 +229,15 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
   margin-top: 35px;
   }
   #whygraphic{
-    float: right;
+   
+    width: 45%
   }
 
   
   #why img{
-  
-    width:265px;
-    height: auto;
-  margin-top:20px;
-  margin-left: 65px;
-    display: inline-block;
+width: 90%;
+margin-left: 10%; 
+
   }
   strong{
     font-weight: bold;
@@ -421,13 +407,5 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
     width: 120px;
     background: #fd1c2d;
   }
-  #fblike{
-    width:106px;
-    height:46px;
-    border:none;
-    overflow:hidden;
-    scrolling:none;
-    frameborder:0;
-    allowTransparency:true;
-  }
+
   
