@@ -199,13 +199,15 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
   }
   
   .yesno img {
+    
     width: 49%;
     height: auto;
-   
+    border: 1px solid black;
   }
 
   .no {
     display: inline-block;
+    margin-left: 1% 
   }
 
 
@@ -409,4 +411,11 @@ margin-left: 10%;
     background: #fd1c2d;
   }
 
-  
+  #thePlan {
+      background-color: #DEF4C6;
+  }
+  .doc {
+
+      width: 100%;
+      height: 900px;
+  }
