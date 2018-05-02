@@ -166,6 +166,7 @@ body, header, nav, ul, li, h1, h2, p, nav, hr, a{
   }
   
   #planImage img{
+      margin-top: 20%;
     width:100%;
     height:auto;
   }
